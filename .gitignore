@@ -1,0 +1,16 @@
+/.idea/
+*/__pycache__
+
+__pycache__/*
+
+data/gdb9.tar.gz
+data/gdb9
+exp_results
+.idea
+pretrain
+pretrain_128
+*.sparsedataset
+*.smi
+#*.pkl
+generated_smiles/*
+pretrain_32
